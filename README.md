@@ -1,2 +1,10 @@
 # Stock-Price-Prediction
 Predicting the stock price using machine learning
+
+I chose this topic for my research because of my interest in machine learning, data analytics, and the stock market. This research focused on one of the several applications of machine learning in finance. The financial industry is developing and exploring machine learning applications because it has developed effective services that give value to customers and clients through financial investments.
+
+The act of anticipating stock prices based on previous data is referred to as stock price prediction. I utilised machine learning to analyse past data in order to identify trends and gain a better understanding of the present market. Machine learning automates the trading process by deriving insights and making predictions from statistical models. Machine learning is capable of collecting and testing enormous amounts of organised and unstructured data. It may apply appropriate algorithms, convert the data, look for patterns, and make judgments based on the newly acquired information. 
+
+This is encouraging, given the industry's growth and relevance of machine learning. Accurately forecasting stock prices is difficult due to the financial stock market's unique characteristics, which include current trends, politics, and the economy. They have a significant effect on pricing since they make it difficult to decide whether to purchase, sell, or keep shares. As a result, risks are an unavoidable part of life that can only be mitigated.
+
+This project shows how various efforts have been taken to apply machine learning in stock forecasting for Apple (AAPL). I implemented it in python with open-source libraries. I got the historical data from yahoo finance and applied pre-processing methods to make the data relevant. Also, using the deep learning network model, a hyper tuning process to validate the model for building, fitting, and training for prediction. After prediction, error analysis is crucial for identifying how the model performs and how accurate the predicted values are.
