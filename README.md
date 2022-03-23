@@ -1,7 +1,7 @@
 # Stock-Price-Prediction
 Predicting the stock price using machine learning
 
-I chose this topic for my research because of my interest in machine learning, data analytics, and the stock market. This research focused on one of the several applications of machine learning in finance. The financial industry is developing and exploring machine learning applications because it has developed effective services that give value to customers and clients through financial investments.
+I chose this topic for a personal research project because of my interest in machine learning, data analytics, and the stock market. This research focused on one of the several applications of machine learning in finance. The financial industry is developing and exploring machine learning applications because it has developed effective services that give value to customers and clients through financial investments.
 
 The act of anticipating stock prices based on previous data is referred to as stock price prediction. I utilised machine learning to analyse past data in order to identify trends and gain a better understanding of the present market. Machine learning automates the trading process by deriving insights and making predictions from statistical models. Machine learning is capable of collecting and testing enormous amounts of organised and unstructured data. It may apply appropriate algorithms, convert the data, look for patterns, and make judgments based on the newly acquired information. 
 
